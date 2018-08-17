@@ -1,1 +1,1 @@
-# Python-Algorithmic-Trading-using-the-Quantopian-Platform
+# -Python-Algorithmic-Trading-using-the-Quantopian-Platform
